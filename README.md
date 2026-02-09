@@ -15,3 +15,6 @@ They must:
 - Pass basic contrast checks (no light-gray-on-white crimes)
 
 This teaches restraint fast.
+
+❌ Fail conditions: neon colors, unreadable contrast
+✅ Pass condition: restrained, consistent palette
