@@ -1,27 +1,34 @@
-/* RULES:
-1. Use ONE primary color
-2. ONE secondary color
-3. ONE accent color
-4. Use HEX, RGB, and Named Values at least once
-5. Text must be readable
-*/
-
 body {
-  /* background + text color */
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f8;
+  color: green; /*secondary color */
 }
 
 h1 {
-  /* primary color */
+  color: blue; /* primary */
+  font-size: 32px;
+  margin-bottom: 16px;
 }
-
 button {
-  /* primary action color */
+  color: blue; /* primary color*/
+  font-size: 16px;
+  padding: 12px 20px;
+  border: 2px solid blue;
+  border-radius: 4px;
 }
 
 .secondary {
-  /* secondary color */
+  background-color: rgba(128, 128, 128, 0.057);
+  color: green; /* secondary color */
+  font-size: 16px;
+  padding: 12px 20px;
+  border: 2px solid green;
+  border-radius: 4px;
 }
-
 .warning {
-  /* accent color */
+  color: rgb(180, 70, 60); /* accent color */
+  font-size: 16px;
+  margin-top: 16px;
 }
+/* i used the same colors to avoid repetition of colors*/
