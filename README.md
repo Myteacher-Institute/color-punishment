@@ -17,4 +17,5 @@ They must:
 This teaches restraint fast.
 
 ❌ Fail conditions: neon colors, unreadable contrast
+
 ✅ Pass condition: restrained, consistent palette
