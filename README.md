@@ -1,4 +1,4 @@
-## Color Discipline Task
+# Color Discipline Task
 
 They must:
 
