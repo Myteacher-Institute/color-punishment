@@ -1,0 +1,27 @@
+/* RULES:
+1. Use ONE primary color
+2. ONE secondary color
+3. ONE accent color
+4. Use HEX, RGB, and Named Values at least once
+5. Text must be readable
+*/
+
+body {
+  /* background + text color */
+}
+
+h1 {
+  /* primary color */
+}
+
+button {
+  /* primary action color */
+}
+
+.secondary {
+  /* secondary color */
+}
+
+.warning {
+  /* accent color */
+}
